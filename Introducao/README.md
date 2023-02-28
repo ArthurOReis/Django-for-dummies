@@ -1,6 +1,6 @@
 # Sobre Django
 
-![Logo do Django](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introdução/Estatico/img.png)
+![Logo do Django](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introducao/Estatico/img.png)
 
 * Django é um framework full-stack escrito em Python, ou seja, uma ferramenta com uma biblioteca extensa com funções fundamentais para criação de aplicativos web.
 
@@ -14,7 +14,7 @@ Primeiramente, crie um arquivo vazio, e em seguida instale uma máquina virtual,
 
 #### Com a máquina instalada, abra o terminal localizado no arquivo, e com o nome da máquina virtual:
 
-![Terminal](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introdução/Estatico/img_1.png)
+![Terminal](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introducao/Estatico/img_1.png)
 
 #### Próximo passo é a instalação do framework por um comando:
 
@@ -32,7 +32,7 @@ django-admin startproject setup .
 
 #### Criando o novo projeto, você irá se deparar com uma pasta contendo arquivos diferentes:
 
-![Arquivos Django](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introdução/Estatico/img_2.png)
+![Arquivos Django](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introducao/Estatico/img_2.png)
 
 #### Não se assuste pela quantia! Pois, com passar do tempo conhecerá individualmente a maioria deles!
 
@@ -45,7 +45,7 @@ python manage.py runserver
 
 #### Através desse comando, vai ser exibido um link com o seu IP, clicando, vai se deparar com a janela do seu primeiro site!
 
-![Site aberto](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introdução/Estatico/img_3.png)
+![Site aberto](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introducao/Estatico/img_3.png)
 
 # Primeiro site criado!
-![Site aberto](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introdução/Estatico/img_3.png)
+![Site aberto](https://github.com/ArthurOReis/Django-for-dummies/blob/main/Introducao/Estatico/img_4.png)
