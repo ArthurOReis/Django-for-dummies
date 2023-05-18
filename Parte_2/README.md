@@ -119,3 +119,4 @@ def index(request):
 #### Recarregando a página index no browser, será exibido:
 ![Index com página HTML](imgs/img_7.png)
 ***
+## [Resolução da parte 2](https://github.com/ArthurOReis/Django-parte_2_e_3)

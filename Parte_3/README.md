@@ -386,3 +386,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 ## Depois do load static:
 
 ![Index com CSS](imgs/img_12.png)
+***
+## [Resolução da parte 3](https://github.com/ArthurOReis/Django-parte_2_e_3)
